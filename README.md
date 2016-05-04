@@ -1,2 +1,1 @@
-# understanding-transducers
-Осваиваем трансдьюсеры
+ 
